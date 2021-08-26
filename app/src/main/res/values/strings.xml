@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinBitriseTestApp</string>
+    <string name="message">Happy android programming</string>
+    <string name="ok">OK</string>
+</resources>
