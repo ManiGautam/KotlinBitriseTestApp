@@ -1,4 +1,4 @@
-package com.example.kotlinbitrisetestapp
+package com.manijee.kotlinbitrisetestapp
 
 import org.junit.Test
 

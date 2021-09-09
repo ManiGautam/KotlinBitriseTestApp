@@ -1,10 +1,10 @@
-package com.example.kotlinbitrisetestapp.views.activities
+package com.manijee.kotlinbitrisetestapp.views.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.LayoutInflater
-import com.example.kotlinbitrisetestapp.R
-import com.example.kotlinbitrisetestapp.databinding.ActivityMainBinding
+import com.manijee.kotlinbitrisetestapp.R
+import com.manijee.kotlinbitrisetestapp.databinding.ActivityMainBinding
 
 
 class MainActivity : AppCompatActivity() {
